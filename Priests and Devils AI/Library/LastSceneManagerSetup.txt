@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Priest_and_Devil.unity
+  isLoaded: 1
+  isActive: 1
